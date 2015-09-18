@@ -88,6 +88,4 @@ namespace CommandParser
             return result.Split(new Char[] { '/', '-' }, StringSplitOptions.RemoveEmptyEntries);
         }
     }
-
-    //TODO: 
 }
