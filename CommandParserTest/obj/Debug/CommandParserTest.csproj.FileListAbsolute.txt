@@ -1,0 +1,9 @@
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\bin\Debug\CommandParserTest.dll
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\bin\Debug\CommandParserTest.pdb
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\bin\Debug\CommandParser.exe
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\bin\Debug\nunit.framework.dll
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\bin\Debug\CommandParser.pdb
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\bin\Debug\nunit.framework.xml
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\obj\Debug\CommandParserTest.csprojResolveAssemblyReference.cache
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\obj\Debug\CommandParserTest.dll
+C:\Users\SV\documents\visual studio 2012\Projects\CommandParser\CommandParserTest\obj\Debug\CommandParserTest.pdb
