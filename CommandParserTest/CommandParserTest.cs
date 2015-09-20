@@ -100,5 +100,17 @@ namespace CommandParserTest
             Assert.AreEqual(ic.interpret(arg, out exit), result);
         }
 
+        [Test]
+        public void CommandParserExitSignArgTest()
+        {
+            InterpretClass ic = new InterpretClass();
+            String[] arg = new String[] { "exit" };
+            bool exit = true;
+            ic.interpret(arg, out exit);
+            Assert.AreEqual(exit, true);
+        }
+
+
+      
     }
 }
